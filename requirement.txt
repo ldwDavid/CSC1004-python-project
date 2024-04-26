@@ -2,3 +2,4 @@ pytorch
 pyyaml
 matplotlib
 numpy
+tensor2tensor
