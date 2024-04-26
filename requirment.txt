@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 numpy
 pygame
+=======
+numpy
+>>>>>>> 9f66efd (ignore1)
