@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 numpy
 pygame
 =======
 numpy
 >>>>>>> 9f66efd (ignore1)
+=======
+numpy
+pygame
+>>>>>>> 23fc9f4 (ignore2)
